@@ -30,7 +30,7 @@ The assignment says that data does not have to be stored permanently, but it can
 5. Open the project in an Android emulator or Expo Go.
 
 ## Evidence to capture
-For the Part 2 submission, take screenshots showing:
+
 1. Empty Home screen.
 2. Form filled in before adding.
 3. Menu item successfully added.
@@ -39,4 +39,4 @@ For the Part 2 submission, take screenshots showing:
 6. Details screen.
 7. Remove confirmation and the item disappearing.
 
-Record a short voice-over demonstrating these features and upload the recording as an unlisted video as required by the assessment.
+
